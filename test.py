@@ -1,3 +1,4 @@
+'''This module show how to work with decorators.'''
 import time
 import signal
 
@@ -29,3 +30,4 @@ def do_work():
 # Тестируем
 while True:
     do_work()
+
